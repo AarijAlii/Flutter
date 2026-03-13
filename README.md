@@ -1,3 +1,3 @@
 # Flutter
 
-## Task # 1
+## Flutter applications and practices throughout the semester
